@@ -64,7 +64,7 @@ def get_gemini_response(question):
 st.set_page_config(page_title="Gemini LLM Q&A", layout="wide")
 
 # Page header
-st.title("Gemini LLM Q&A Application")
+st.title("Gemini Conversational Q&A Application")
 
 # Ensure session state initialization
 if 'chat_history' not in st.session_state:
