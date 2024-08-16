@@ -6,4 +6,4 @@
 
 # Deployed Link
 
-[DEPLOYED_LINK](https://ex26conversationalapp-3mwc4gjuuatucd2hhqfbpo.streamlit.app/)
+[DEPLOYED_LINK](https://ex26conversationalapp-zcq6tw4akqd4wtfc66qkpu.streamlit.app/)
