@@ -1,3 +1,4 @@
 genai
 google-generativeai
-tiktoken
+streamlit
+python-dotenv
